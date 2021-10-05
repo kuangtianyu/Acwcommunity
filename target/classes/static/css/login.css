@@ -1,0 +1,13 @@
+.main .container {
+	width: 720px;
+}
+
+.text-info {
+	color: #ff8000!important;
+}
+
+.btn-info {
+	color: #fff;
+	background-color: #ff8000 !important;
+	border-color: #ff8000 !important;
+}

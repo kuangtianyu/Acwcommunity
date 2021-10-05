@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="40a75561-08fc-431f-a85a-dd1d75f866f8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\maven\maven_repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../../maven/apache-maven-3.5.2" />
+        <option name="userSettingsFile" value="D:\maven\apache-maven-3.5.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1x1DjDIINX9co0MfHTfNqOvUeon" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.3125" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\java\javaProject\work\Echo\src\main\resources\static\img" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.CommunityApplication">
+    <configuration name="ElasticsearchTests.testInsert" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Acwcommunity" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.greate.community.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.greate.community" />
+      <option name="MAIN_CLASS_NAME" value="com.greate.community.ElasticsearchTests" />
+      <option name="METHOD_NAME" value="testInsert" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ElasticsearchTests.testInsetList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Acwcommunity" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.greate.community.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.greate.community" />
+      <option name="MAIN_CLASS_NAME" value="com.greate.community.ElasticsearchTests" />
+      <option name="METHOD_NAME" value="testInsetList" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CommunityApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Acwcommunity" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.greate.community.CommunityApplication" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.ElasticsearchTests.testInsert" />
+      <item itemvalue="JUnit.ElasticsearchTests.testInsetList" />
+      <item itemvalue="Spring Boot.CommunityApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ElasticsearchTests.testInsetList" />
+        <item itemvalue="JUnit.ElasticsearchTests.testInsert" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="40a75561-08fc-431f-a85a-dd1d75f866f8" name="Default Changelist" comment="" />
+      <created>1629513833768</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1629513833768</updated>
+      <workItem from="1629513837843" duration="3142000" />
+      <workItem from="1629725093674" duration="750000" />
+      <workItem from="1629764310082" duration="10000" />
+      <workItem from="1629773021936" duration="1205000" />
+      <workItem from="1630240228819" duration="1448000" />
+      <workItem from="1630411799828" duration="2716000" />
+      <workItem from="1630450866578" duration="1605000" />
+      <workItem from="1630464660689" duration="345000" />
+      <workItem from="1630465022688" duration="16260000" />
+      <workItem from="1630543883656" duration="13133000" />
+      <workItem from="1630655546303" duration="13797000" />
+      <workItem from="1630720974157" duration="7147000" />
+      <workItem from="1630749283753" duration="8963000" />
+      <workItem from="1630808221450" duration="19501000" />
+      <workItem from="1630903765952" duration="6780000" />
+      <workItem from="1630938601801" duration="1607000" />
+      <workItem from="1630940283892" duration="452000" />
+      <workItem from="1630984024462" duration="16000" />
+      <workItem from="1630985383747" duration="14000" />
+      <workItem from="1630987894165" duration="12910000" />
+      <workItem from="1631068175629" duration="22000" />
+      <workItem from="1631074138837" duration="17880000" />
+      <workItem from="1631098345757" duration="64000" />
+      <workItem from="1631109570829" duration="4357000" />
+      <workItem from="1631142331248" duration="19937000" />
+      <workItem from="1631229203480" duration="1643000" />
+      <workItem from="1631231391090" duration="6888000" />
+      <workItem from="1633391737451" duration="5729000" />
+      <workItem from="1633397755254" duration="4008000" />
+      <workItem from="1633402022452" duration="3650000" />
+      <workItem from="1633408853854" duration="5296000" />
+      <workItem from="1633422702868" duration="361000" />
+      <workItem from="1633423108613" duration="4444000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1630938308729">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="223" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1630938308729" />
+    <state x="510" y="217" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1633401338240">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="510" y="217" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.834@0.0.1536.834" timestamp="1633401338240" />
+    <state x="499" y="163" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1633400443552">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="499" y="163" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.834@0.0.1536.834" timestamp="1633400443552" />
+    <state x="367" y="0" key="CommitChangelistDialog2" timestamp="1630589993992">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="367" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1630589993992" />
+    <state x="549" y="172" key="FileChooserDialogImpl" timestamp="1633416625659">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1633416625659" />
+    <state width="1492" height="154" key="GridCell.Tab.0.bottom" timestamp="1633424057003">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1492" height="154" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1633424057003" />
+    <state width="1492" height="154" key="GridCell.Tab.0.center" timestamp="1633424057002">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1492" height="154" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1633424057002" />
+    <state width="1492" height="154" key="GridCell.Tab.0.left" timestamp="1633424057002">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1492" height="154" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1633424057002" />
+    <state width="1492" height="154" key="GridCell.Tab.0.right" timestamp="1633424057002">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1492" height="154" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1633424057002" />
+    <state width="1492" height="154" key="GridCell.Tab.1.bottom" timestamp="1633424057003">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1492" height="154" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1633424057003" />
+    <state width="1492" height="154" key="GridCell.Tab.1.center" timestamp="1633424057003">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1492" height="154" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1633424057003" />
+    <state width="1492" height="154" key="GridCell.Tab.1.left" timestamp="1633424057003">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1492" height="154" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1633424057003" />
+    <state width="1492" height="154" key="GridCell.Tab.1.right" timestamp="1633424057003">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1492" height="154" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1633424057003" />
+    <state x="349" y="151" key="IDE.errors.dialog" timestamp="1630467686627">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="349" y="151" key="IDE.errors.dialog/0.0.1536.834@0.0.1536.834" timestamp="1630467686627" />
+    <state x="560" y="118" key="RollbackChangesDialog" timestamp="1630451631338">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="560" y="118" key="RollbackChangesDialog/0.0.1536.834@0.0.1536.834" timestamp="1630451631338" />
+    <state x="538" y="50" key="SettingsEditor" timestamp="1633391752282">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="538" y="50" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1633391752282" />
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1630938128542">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1630938128542" />
+  </component>
+</project>
